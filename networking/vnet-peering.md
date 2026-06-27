@@ -15,5 +15,5 @@ build a hub-spoke topology with nsg segmentation.
 ![nsg subnets](../diagrams/vnet-nsg-subnets.png)
 
 ## takeaways
-azure NSGs default deny-all at priority 65500. 
-explicit allow rule sits at priority 100.
+- azure NSGs default deny-all at priority 65500. 
+- explicit allow rule sits at priority 100.
