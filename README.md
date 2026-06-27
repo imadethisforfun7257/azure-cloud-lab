@@ -5,7 +5,7 @@ a presentation showing various azure exercises as evidence of effort and study t
 - [x] hub-spoke vnet with peering and nsgh rules
 - [x] entra ID users, groups, and custom RBAC role
 - [ ] azure site recovery — in progress
-- [ ] log analytics workspace with KQL alerts
+- [x] log analytics workspace with KQL alerts
 
 ## lab environment
 - azure free
