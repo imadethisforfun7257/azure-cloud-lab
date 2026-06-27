@@ -12,6 +12,7 @@ build a hub-spoke topology with nsg segmentation.
 ## screenshot
 ![peering status](../diagrams/vnet-peering.png)
 ![nsg rules](../diagrams/vnet-nsg.png)
+![nsg subnets](../diagrams/vnet-nsg-subnets.png)
 
 ## takeaways
 azure NSGs default deny-all at priority 65500. 
