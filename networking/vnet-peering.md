@@ -10,7 +10,8 @@ build a hub-spoke topology with nsg segmentation.
 - nsg on hub-subnet: RDP allowed from source IP only
 
 ## screenshot
-![Peering status](../diagrams/vnet-peering.png)
+![peering status](../diagrams/vnet-peering.png)
+![nsg rules](../diagrams/vnet-nsg.png)
 
 ## takeaways
 azure NSGs default deny-all at priority 65500. 
