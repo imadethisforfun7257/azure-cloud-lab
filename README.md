@@ -7,9 +7,12 @@ a presentation showing various azure exercises as evidence of effort and study t
 - [ ] azure site recovery — in progress
 - [x] log analytics workspace with KQL alerts
 
-## lab environment
-- azure free
-- proxmox on-prem with fortigate 60D and cisco catalyst 3750X
+## homelab environment
+- azure (free tier)
+- on-prem machine running proxmox with fortigate 60D and cisco catalyst 3750X
+- on-prem machine running ubuntu server (used for multiplayer game services via AMP)
+- pihole for dns based adblocking
+- a containerized VM of kali linux for cybersecurity excercises (using nomachine as a visualizer)
 - 6 VLANs, wazuh SIEM
 
 ## diagrams
