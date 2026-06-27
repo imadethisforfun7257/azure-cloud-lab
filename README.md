@@ -4,8 +4,7 @@ a presentation showing various azure exercises as evidence of effort and study t
 ## completed excercises
 - [x] hub-spoke vnet with peering and nsgh rules
 - [x] entra ID users, groups, and custom RBAC role
-- [ ] azure site recovery — in progress
-- [x] log analytics workspace with KQL alerts
+- [x] log analytics workspace with alert rule
 
 ## homelab environment
 - azure (free tier)
@@ -15,4 +14,5 @@ a presentation showing various azure exercises as evidence of effort and study t
 - a containerized VM of kali linux for cybersecurity excercises (using nomachine as a visualizer)
 - 6 VLANs, wazuh SIEM
 
-## diagrams
+## azure resource diagram
+![resouce visual](../diagrams/visual.png)
