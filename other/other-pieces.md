@@ -3,8 +3,6 @@
 ## objective
 aggregating other areas of the azure portal that were explored but not enough for a dedicated section.
 
-## what was built
-
 ### backup vault
 ![backup vault](../diagrams/backupvault.png)
 
