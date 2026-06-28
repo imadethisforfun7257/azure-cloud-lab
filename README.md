@@ -15,4 +15,4 @@ a presentation showing various azure exercises as evidence of effort and study t
 - 6 VLANs, wazuh SIEM
 
 ## azure resource diagram
-![resouce visual](../diagrams/visual.png)
+![resouce visual](.../diagrams/visual.png)
