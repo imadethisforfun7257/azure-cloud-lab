@@ -1,7 +1,7 @@
 # practice exam results for exam readiness
 
 ## objective
-to display test reuslts from two notable sources in order to guage exam readiness should the official test be taken in the immediate future.
+to display test reuslts from two notable sources in order to gauge exam readiness should the official test be taken in the immediate future.
 
 ### microsoft learn practice exam
 ![mircosoft learn result](../diagrams/learnresult.png)
