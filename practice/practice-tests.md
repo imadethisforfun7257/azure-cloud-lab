@@ -6,6 +6,6 @@ to display test reuslts from two notable sources in order to guage exam readines
 ### microsoft learn practice exam
 ![mircosoft learn result](../diagrams/learnresult.png)
 
-## inside cloud and security 100 question practice exam
+### inside cloud and security 100 question practice exam
 ![100 question exam](../diagrams/100result.png)
 
