@@ -14,20 +14,20 @@ configure identity and access management in Microsoft Entra ID using built-in an
 ![user 2](../diagrams/user2.png)
 
 ### security group
-- Name: lab-members
-- Type: security
-- Members: chris, crawford
-- Assigned: reader role scoped to lab-rg resource group
+- name: lab-members
+- type: security
+- members: chris, crawford
+- assigned: reader role scoped to lab-rg resource group
 
 #### screenshots
 ![security group](../diagrams/securitygroup.png)
 ![group role assignment](../diagrams/grouprole.png)
 
 ### custom rbac role
-- Name: vm reader only
-- Permission: Microsoft.Compute/virtualMachines/read (only)
-- Assignable scope: lab-rg
-- Assigned to: chris, lab members group
+- name: vm reader only
+- permission: Microsoft.Compute/virtualMachines/read (only)
+- assignable scope: lab-rg
+- assigned to: chris, lab members group
 
 #### screenshot
 ![role creation](../diagrams/rolecreation.png)
