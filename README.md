@@ -2,7 +2,7 @@
 a presentation showing various azure exercises as evidence of effort and study toward the AZ-900 and AZ-104
 
 ## completed excercises
-- [x] hub-spoke vnet with peering and nsgh rules
+- [x] hub-spoke vnet with peering and nsg rules
 - [x] entra ID users, groups, and custom RBAC role
 - [x] log analytics workspace with alert rule
 
